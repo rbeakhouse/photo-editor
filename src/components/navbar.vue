@@ -59,6 +59,7 @@
         href="https://github.com/fengyuanchen/photo-editor"
         title="View on GitHub"
       ><span class="fa fa-github" /></a>
+      <a>artfrom.photos</a>
     </nav>
   </div>
 </template>
